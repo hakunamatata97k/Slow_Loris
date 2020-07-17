@@ -1,4 +1,4 @@
-# Slow loris python implementation: 
+# Slow loris implementation: 
 
 ### Mirror of google's cache copy of http://ha.ckers.org/slowloris/slowloris.pl
 
